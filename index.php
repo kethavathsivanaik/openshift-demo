@@ -1,3 +1,3 @@
 <?php
-echo `First`;
+print "First";
 ?>
